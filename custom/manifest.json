@@ -3,7 +3,7 @@
     { "name": "Metal Crusher", "file": "music/metallica.mp3" }
   ],
   "icons": [
-    { "name": "Mettaton", "file": "icons/guy.png" }
+    { "name": "Verity", "file": "icons/yellowball.png" }
   ],
   "cursors": [
     { "name": "Heart", "file": "cursors/heart.webp" }
